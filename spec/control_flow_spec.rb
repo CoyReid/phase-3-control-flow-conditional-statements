@@ -1,5 +1,5 @@
 require_relative 'spec_helper'
-require_relative '../control_flow'
+require_relative '../control_flow.rb'
 
 describe '#admin_login' do
   
